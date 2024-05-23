@@ -14,6 +14,8 @@ Pneumonia is a leading cause of death among children under five years old global
 
 <img width="332" alt="image" src="https://github.com/ColleenJung/Deep-Learning-Project-Identifying-Pneumonia-diagnosis-by-CNN-Classifier/assets/119357849/448af652-a7ee-4f73-b3b7-8893ca375d3c">
 
+<img width="404" alt="image" src="https://github.com/ColleenJung/Deep-Learning-Project-Identifying-Pneumonia-diagnosis-by-CNN-Classifier/assets/119357849/a872dbda-6cec-43d4-925c-a25886701172">
+
 - **Source**: Chest X-ray images.
 - **Number of Observations**: 5,800 images.
 - **Features**: Images labeled as Normal or Pneumonia.
